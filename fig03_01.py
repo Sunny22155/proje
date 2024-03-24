@@ -1,6 +1,7 @@
 # fig03_01.py
 """Class average program with sequence-controlled repetition."""
 
+
 # initialization phase
 total = 0  # sum of grades
 grade_counter = 0
